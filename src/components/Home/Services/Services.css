@@ -1,0 +1,9 @@
+.center {
+    text-align: center;
+}
+.services{
+    display:grid;
+    grid-template-columns: auto auto auto; 
+    padding: 20px;
+    margin-left: 90px;
+}

@@ -1,0 +1,15 @@
+  
+input{
+    border-style: none;
+    padding:15px 15px 15px 0px;
+    margin: 5px 0 22px 0;
+    width: 600px;
+}
+input:focus{
+    outline: none;
+}
+.register {
+    border-radius: 5px;
+    margin: auto;
+    padding: 15px;
+}

@@ -1,0 +1,8 @@
+
+.bg-color{
+    background-color: rgb(37, 38, 39);
+    padding: 10px 30px;
+    border: none;
+    border-radius: 10px;
+    height: 600px;
+}
