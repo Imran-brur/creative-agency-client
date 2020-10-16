@@ -7,7 +7,7 @@ const AdminServiceList = () => {
     const [userOrders, setUserOrders] = useState([]);
 
     useEffect(() => {
-        fetch('http://localhost:5000/users/userServices')
+        fetch('https://serene-depths-71399.herokuapp.com/users/userServices')
         .then(res => res.json())
         .then(data => setUserOrders(data))
     }, [])

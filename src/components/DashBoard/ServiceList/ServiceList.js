@@ -9,7 +9,7 @@ const ServiceList = () => {
     const [users, setUsers] = useState([])
 
     useEffect(() =>{
-        fetch('http://localhost:5000/userServices')
+        fetch('https://serene-depths-71399.herokuapp.com/userServices')
         .then(res => res.json())
         .then(data => {
             setUsers(data)

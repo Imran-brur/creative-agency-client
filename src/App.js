@@ -14,7 +14,6 @@ import { useState } from 'react';
 import PrivetRoute from './components/Login/PrivetRoute/PrivetRoute';
 import LogIn from './components/Login/Login';
 import Review from './components/DashBoard/Review/Review';
-import AdminDashBoard from './components/AdminDashBoard/AdminDashboard';
 
 export const UserContext = createContext();
 

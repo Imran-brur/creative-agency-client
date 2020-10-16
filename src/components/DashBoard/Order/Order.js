@@ -14,7 +14,7 @@ const Order = () => {
     const onSubmit = data => {
     const serviceDetails = { ...loggedInUser, service: mainService , user: data, time: new Date()}
         
-    fetch('http://localhost:5000/addService', {
+    fetch('https://serene-depths-71399.herokuapp.com/addService', {
        method: 'POST',
        headers: { 'content-Type' : 'application/json'},
         body: JSON.stringify(serviceDetails)
