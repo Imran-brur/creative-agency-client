@@ -1,6 +1,6 @@
 ![alt text](/src/images/logos/logo.png "Logo")
 
-[Web Link](https://creative-agency-32dca.web.app/)
+[Website Link](https://creative-agency-32dca.web.app/)
 
 Single page Full-Stack Application with interactive UI. Access with different role such as Admin and User. Authentication for google sign in.
 
