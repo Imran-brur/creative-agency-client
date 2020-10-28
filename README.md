@@ -1,4 +1,4 @@
-![alt text](https://github.com/adam-p/markdown-here/raw/main/src/images/logos/logo.png "Logo")
+![alt text](/src/images/logos/logo.png "Logo")
 
 [Web Link](https://creative-agency-32dca.web.app/)
 
